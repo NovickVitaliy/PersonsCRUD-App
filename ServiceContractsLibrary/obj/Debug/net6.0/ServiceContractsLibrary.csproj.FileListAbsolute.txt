@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ServiceContractsLibrary\bin\Debug\net6.0\ServiceContractsLibrary.deps.json
+C:\Users\User\source\repos\ServiceContractsLibrary\bin\Debug\net6.0\ServiceContractsLibrary.dll
+C:\Users\User\source\repos\ServiceContractsLibrary\bin\Debug\net6.0\ServiceContractsLibrary.pdb
+C:\Users\User\source\repos\ServiceContractsLibrary\bin\Debug\net6.0\Entitites.dll
+C:\Users\User\source\repos\ServiceContractsLibrary\bin\Debug\net6.0\Entitites.pdb
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.dll
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\refint\ServiceContractsLibrary.dll
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ServiceContractsLibrary.pdb
+C:\Users\User\source\repos\ServiceContractsLibrary\obj\Debug\net6.0\ref\ServiceContractsLibrary.dll

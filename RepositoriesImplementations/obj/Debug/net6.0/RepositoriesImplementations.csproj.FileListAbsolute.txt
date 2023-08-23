@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\RepositoriesImplementations.deps.json
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\RepositoriesImplementations.dll
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\RepositoriesImplementations.pdb
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\Entitites.dll
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\User\source\repos\RepositoriesImplementations\bin\Debug\net6.0\Entitites.pdb
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.AssemblyInfo.cs
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.csproj.CopyComplete
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.dll
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\refint\RepositoriesImplementations.dll
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\RepositoriesImplementations.pdb
+C:\Users\User\source\repos\RepositoriesImplementations\obj\Debug\net6.0\ref\RepositoriesImplementations.dll
